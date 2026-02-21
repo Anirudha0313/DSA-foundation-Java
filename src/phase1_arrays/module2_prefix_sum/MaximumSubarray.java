@@ -1,4 +1,4 @@
-package phase1_arrays.module1_traversal;
+package phase1_arrays.module2_prefix_sum;
 public class MaximumSubarray {
 
     // Brute Force Approach - O(n^2)
