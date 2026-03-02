@@ -1,4 +1,4 @@
-package phase1_arrays.module3_sliding_window;
+package phase1_arrays.module5_sliding_window;
 public class SmallestSubarraySum {
 
     public static int smallestSubarray(int[] arr, int k) {
